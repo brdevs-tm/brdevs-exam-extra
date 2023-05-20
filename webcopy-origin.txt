@@ -1,0 +1,152 @@
+Uri: https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css
+File Name: D:\downloads\harley.netlify.app\npm\@fancyapps\ui@4.0\dist\fancybox.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js
+File Name: D:\downloads\harley.netlify.app\npm\@fancyapps\ui@4.0\dist\fancybox.umd.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css
+File Name: D:\downloads\harley.netlify.app\npm\bootstrap@5.2.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js
+File Name: D:\downloads\harley.netlify.app\npm\bootstrap@5.2.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css
+File Name: D:\downloads\harley.netlify.app\npm\remixicon@2.5.0\fonts\remixicon.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.eot?t=1590207869815
+File Name: D:\downloads\harley.netlify.app\npm\remixicon@2.5.0\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.svg?t=1590207869815
+File Name: D:\downloads\harley.netlify.app\npm\remixicon@2.5.0\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.ttf?t=1590207869815
+File Name: D:\downloads\harley.netlify.app\npm\remixicon@2.5.0\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff2?t=1590207869815
+File Name: D:\downloads\harley.netlify.app\npm\remixicon@2.5.0\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff?t=1590207869815
+File Name: D:\downloads\harley.netlify.app\npm\remixicon@2.5.0\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap
+File Name: D:\downloads\harley.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v11/LDI1apSCOBt_aeQQ7ftydoaMWQ.ttf
+File Name: D:\downloads\harley.netlify.app\s\baijamjuree\v11\LDI1apSCOBt_aeQQ7ftydoaMWQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v11/LDIqapSCOBt_aeQQ7ftydoa05efukw.ttf
+File Name: D:\downloads\harley.netlify.app\s\baijamjuree\v11\LDIqapSCOBt_aeQQ7ftydoa05efukw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v11/LDIqapSCOBt_aeQQ7ftydoa0gebukw.ttf
+File Name: D:\downloads\harley.netlify.app\s\baijamjuree\v11\LDIqapSCOBt_aeQQ7ftydoa0gebukw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v11/LDIqapSCOBt_aeQQ7ftydoa0reHukw.ttf
+File Name: D:\downloads\harley.netlify.app\s\baijamjuree\v11\LDIqapSCOBt_aeQQ7ftydoa0reHukw.ttf
+Content Type: font/ttf
+
+Uri: https://harley.netlify.app/
+File Name: D:\downloads\harley.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://harley.netlify.app/assets/css/style.css
+File Name: D:\downloads\harley.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://harley.netlify.app/assets/images/blog-post1.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\blog-post1.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/blog-post2.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\blog-post2.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/blog-post3.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\blog-post3.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/hero.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/logo01.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo01.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/logo02.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo02.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/logo03.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo03.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/logo04.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo04.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/logo05.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo05.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/logo06.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo06.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/logo07.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo07.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/logo08.svg
+File Name: D:\downloads\harley.netlify.app\assets\images\logo08.svg
+Content Type: image/svg+xml
+
+Uri: https://harley.netlify.app/assets/images/p-1.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\p-1.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/p-2.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\p-2.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/p-3.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\p-3.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/p-4.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\p-4.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/p-5.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\p-5.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/images/p-6.jpg
+File Name: D:\downloads\harley.netlify.app\assets\images\p-6.jpg
+Content Type: image/jpeg
+
+Uri: https://harley.netlify.app/assets/js/app.js
+File Name: D:\downloads\harley.netlify.app\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@3.0.0-beta.6/dist/aos.css
+File Name: D:\downloads\harley.netlify.app\aos@3.0.0-beta.6\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@3.0.0-beta.6/dist/aos.js
+File Name: D:\downloads\harley.netlify.app\aos@3.0.0-beta.6\dist\aos.js
+Content Type: application/javascript
+
